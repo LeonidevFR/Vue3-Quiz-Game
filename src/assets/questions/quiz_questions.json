@@ -1,0 +1,52 @@
+[
+  {
+    "question": "En quelle année est mort le joueur de Basketball Kobe Bryant ?",
+    "answers": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quelle couleur est traditionnellement associée à la royauté française ?",
+    "answers": [
+      "Bleu",
+      "Blanc",
+      "Rouge",
+      "Violet"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quelle actrice a interprété le rôle d'Edith Piaf dans le film 'La Môme' ?",
+    "answers": [
+      "Brigitte Bardot",
+      "Charlotte Gainsbourg",
+      "Marion Cotillard",
+      "Mélanie Laurent"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel a été le premier album solo de l'artiste Booba ?",
+    "answers": [
+      "0.9",
+      "Panthéon",
+      "West Side",
+      "Temps Mort"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Qui était président sous la 3eme République ?",
+    "answers": [
+      "François Hollande",
+      "Jules Ferry",
+      "Adolphe Thiers",
+      "Anatole France"
+    ],
+    "correctAnswer": 3
+  }
+]
